@@ -1,13 +1,16 @@
 # Capstone Project -Praxis Business School, Kolkata
 # Title : Searching Linkedln using Topic Modelling
 # Purpose:
-There exist a huge assemetry of information between the candidate pool and the recruiter pool. The idea of this project is to reduce that assemetry.
+There exists a huge assemetry of information between the candidate pool and the recruiter pool. The idea of this project is to reduce that assemetry.
 
 # Tools Used:
 Python, Selenium ( Python API), Flask etc.
 
 # Project Duration:
 3 months
+
+# Team of 6 people -
+Sowmya Kartik,Souvick Datta,Rajarshi Chowdhuri,Shiladitya Swarnakar,Moumi Das,Soumya Banerjee, 
 
 # Video Synopsis -
 https://drive.google.com/open?id=1n2zPo018F7csal8ieOaOmMcoIYNBOkSB
